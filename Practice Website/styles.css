@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Potta+One&display=swap');
+*{
+    
+    background-color:black;
+    background-repeat:no-repeat;
+    background-attachment: fixed;
+    background-size:auto;
+   
+}
+.title {
+    font-size: 100px;
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:white;
+
+}
+.bio {
+    text-align: center;
+    color:white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 50px;
+    font-style: bold;
+    font-weight: 500;
+    cursor: pointer;
+    text-shadow: azure;
+    text-anchor:start
+}
